@@ -19,3 +19,5 @@ github_username:  presto8
 
 # Build settings
 markdown: kramdown
+
+comments: true

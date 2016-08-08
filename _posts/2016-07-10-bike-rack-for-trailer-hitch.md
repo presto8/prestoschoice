@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Trailer Hitch"
-date:   2016-07-09
+title:  "Yakima SwingDaddy - Bike rack for trailer hitch"
+date:   2016-07-10
 categories: jekyll update
 ---
 TBD

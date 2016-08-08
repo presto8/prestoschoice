@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Trailer Hitch"
-date:   2016-07-09
-categories: jekyll update
+title:  "VW Sportwagen SE - Family car"
+date:   2016-07-23
+categories: automotive family
 ---
 TBD

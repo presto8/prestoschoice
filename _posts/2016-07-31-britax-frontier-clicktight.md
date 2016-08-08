@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Trailer Hitch"
-date:   2016-07-09
-categories: jekyll update
+title:  "Britax Frontier Clicktight - car seat"
+date:   2016-07-31
+categories: automotive kids
 ---
 TBD

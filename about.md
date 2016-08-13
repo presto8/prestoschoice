@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Presto’s Choice is a blog about all of the things I buy.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+For almost everything I buy, whether it’s sunscreen, a Japanese toilet seat, or
+a new car, I do a tremendous amount of product research. I strive for the best
+value, which doesn’t necessarily mean the cheapest!
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Because I do so much research, I thought I would do a little extra work to
+document my findings so that others might benefit as well. My dream is that
+users will trust my recommendations and make purchases solely based on my
+recommendations!

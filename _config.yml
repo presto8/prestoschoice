@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Presto's Choice is a curated list of recommended products. The Presto's
   Choice for any given product represents the optimal tradeoff between 
   quality, functionality, and price.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://prestoschoice.com" # the base hostname & protocol for your site
 twitter_username: presto8
 github_username:  presto8

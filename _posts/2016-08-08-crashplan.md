@@ -6,8 +6,12 @@ categories: computer
 ---
 
 | Product name | CrashPlan                                               |
-| Category     | Computer                                                |
+| Category     | Computer backup                                         |
 | Buy now      | [30-day free trial](https://store.crashplan.com/store/) |
+{:.summary}
+
+One of the conversations I dread the most with friends and family is when a
+computer breaks or is stolen and the data is gone.
 
 CrashPlan is a great unlimited online backup service. All of your files are
 encrypted and backed up. I've been using it since 2008 and CrashPlan has saved

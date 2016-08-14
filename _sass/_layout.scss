@@ -240,3 +240,18 @@
         }
     }
 }
+
+table.summary {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #000000;
+    margin-bottom: 15px;
+}
+
+table.summary th {
+    border:2px solid #000000;
+}
+
+table.summary td {
+    border:1px solid #000000;
+}

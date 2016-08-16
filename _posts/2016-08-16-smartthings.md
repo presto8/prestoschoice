@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SmartThings - Home Automation"
-date:   2016-07-01
+date:   2016-08-16
 ---
 
 | Product name | SmartThings Hub, 2nd Generation           |

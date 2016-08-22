@@ -19,4 +19,6 @@ really any fancy features, but the tent works, is easy to assemble, will keep
 you dry, and has room for two queen-size air mattresses inside!
 
 If money were no object, I would recommend the [REI Kingdom 6
-Tent](https://www.rei.com/product/894016/rei-kingdom-6-tent) at $439.
+Tent](https://www.rei.com/product/894016/rei-kingdom-6-tent) at $439. It isn't
+any lighter, but you get a lot more flexibility, especially with the exterior
+rain fly.

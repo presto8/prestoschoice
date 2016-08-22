@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coleman Triton 2-Burner Stove"
-date:   2016-08-22
+date:   2016-08-24
 ---
 
 | Product name | Coleman Triton 2-Burner Stove             |

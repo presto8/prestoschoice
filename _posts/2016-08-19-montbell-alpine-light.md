@@ -2,6 +2,7 @@
 permalink: /montbell
 title:  "Montbell Alpine Light Down Jacket"
 date:   2016-08-19
+imgur: kOeUXH9
 ---
 
 | Product name | Montbell Alpine Light Down Jacket |

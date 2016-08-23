@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://prestoschoice.com" # the base hostname & protocol for your site
 twitter_username: presto8
-github_username:  presto8
+#github_username:  presto8
 
 # Build settings
 markdown: kramdown
@@ -27,5 +27,5 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "page"
+      layout: "post"
 

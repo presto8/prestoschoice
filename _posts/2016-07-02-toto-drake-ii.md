@@ -4,6 +4,7 @@ title: "Toto Drake II - Toilet"
 date: 2016-07-02
 categories: home toilet toto
 asin: B002CQ4NVM
+imgur: MeZ19Rz
 ---
 
 | Product name | Toto Drake II                           |

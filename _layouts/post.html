@@ -8,6 +8,15 @@ layout: default
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
 
+  {% include thumbnail.html %}
+
+  <div>
+      <div style="float: left">
+          <img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{page.asin}}&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=prestoschoice-20">
+      </div>
+
+  </div>
+
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>

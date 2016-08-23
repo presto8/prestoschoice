@@ -11,8 +11,10 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
+        {% include thumbnail.html %}
+
         <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{post.asin}}&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=prestoschoice-20">{{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img src="{{thumbnail}}">{{ post.title }}</a>
         </h2>
       </li>
     {% endfor %}

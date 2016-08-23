@@ -1,0 +1,11 @@
+{% capture thumbnail %}
+
+{% if post.thumbnail %}
+{{ post.thumbnail }}
+{% elsif post.imgur %}
+http://i.imgur.com/{{ post.imgur }}t.png
+{% elsif post.asin %}
+//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN={{post.asin}}&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=prestoschoice-20
+{% endif %}
+
+{% endcapture %}

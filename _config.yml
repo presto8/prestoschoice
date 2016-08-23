@@ -21,3 +21,11 @@ github_username:  presto8
 markdown: kramdown
 
 comments: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
+

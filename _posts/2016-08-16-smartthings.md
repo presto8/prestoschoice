@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /smartthings
 title:  "SmartThings - Home Automation"
 date:   2016-08-16
 ---

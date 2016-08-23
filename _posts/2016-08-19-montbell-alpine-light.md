@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /montbell
 title:  "Montbell Alpine Light Down Jacket"
 date:   2016-08-19
 ---

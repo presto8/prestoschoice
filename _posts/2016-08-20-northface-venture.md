@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /venture
 title:  "North Face Venture Jacket - Waterproof Jacket"
 date:   2016-08-20
 ---

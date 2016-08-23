@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /macsports
 title:  "Mac Sports Folding Green Wagon"
 date:   2016-08-15
 ---

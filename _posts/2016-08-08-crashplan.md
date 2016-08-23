@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /crashplan
 title:  "Crashplan - Online backup"
 date:   2016-08-08
 categories: computer

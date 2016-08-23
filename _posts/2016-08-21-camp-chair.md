@@ -2,6 +2,7 @@
 permalink: /moonlence
 title:  "Moon Lence Ultralight Chair - Camp Chair"
 date:   2016-08-21
+asin: B00Y2A6OAO
 ---
 
 | Product name | Moon Lence Ultralight Portable Folding Camping Chair |

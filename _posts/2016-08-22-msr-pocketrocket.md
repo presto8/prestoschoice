@@ -2,6 +2,7 @@
 permalink: /pocketrocket
 title:  "MSR PocketRocket - Backpacking Stove"
 date:   2016-08-22
+asin: B000A8C5QE
 ---
 
 | Product name | MSR PocketRocket                          |

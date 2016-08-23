@@ -1,7 +1,8 @@
 ---
 permalink: /smartthings
 title:  "SmartThings - Home Automation"
-date:   2016-08-16
+date: 2016-08-16
+asin: B010NZV0GE
 ---
 
 | Product name | SmartThings Hub, 2nd Generation           |

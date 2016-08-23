@@ -3,6 +3,7 @@ permalink: /wenzel
 title:  "Wenzel Sierra Pass - family car camping tent"
 date:   2016-07-24
 categories: family camping sports
+asin: B00A8E2BXM
 ---
 
 | Product name | Wenzel Sierra Pass                        |

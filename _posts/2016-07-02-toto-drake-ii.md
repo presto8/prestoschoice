@@ -3,6 +3,7 @@ permalink: /drakeii
 title: "Toto Drake II - Toilet"
 date: 2016-07-02
 categories: home toilet toto
+asin: B002CQ4NVM
 ---
 
 | Product name | Toto Drake II                           |

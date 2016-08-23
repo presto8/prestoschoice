@@ -1,8 +1,8 @@
 ---
 permalink: /crashplan
-title:  "Crashplan - Online backup"
-date:   2016-08-08
-categories: computer
+title: "Crashplan - Online backup"
+date: 2016-08-08
+imgur: 5A7kdIn
 ---
 
 | Product name | CrashPlan                                               |

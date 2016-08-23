@@ -4,13 +4,8 @@ title: "MSR PocketRocket - Backpacking Stove"
 date: 2016-08-22
 asin: B000A8C5QE
 imgur: tTNQhC7
+price_paid: $40 from REI
 ---
-
-| Product name | MSR PocketRocket                          |
-| Category     | Camping, backpacking                      |
-| Price paid   | $40 from REI                              |
-| Buy now      | [Buy from Amazon](http://amzn.to/2bbMGTm) |
-{:.summary}
 
 When I first started backpacking, I got a MSR DragonFly. It is tough, can burn
 anything, and is field serviceable. 

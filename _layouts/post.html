@@ -15,6 +15,15 @@ layout: default
           <img border="0" src="{{ thumbnail }}">
       </div>
 
+      <div>
+          <ul>
+              <li>Price paid: {{ page.price_paid }}</li>
+              {% if page.asin %}
+              <li><a href="http://www.amazon.com/dp/{{ page.asin }}/?tag=prestoschoice-20">Buy now from Amazon</a></li>
+              <li><a href="http://camelcamelcamel.com/product/{{ page.asin }}">See price history on CamelCamelCamel</a></li>
+              {% endif %}
+          </ul>
+      </div>
   </div>
 
   <div class="post-content" itemprop="articleBody">

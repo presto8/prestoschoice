@@ -1,12 +1,8 @@
 ---
 permalink: /smartthings
-title:  "SmartThings - Home Automation"
+title:  "SmartThings Hub, 2nd Generation"
 date: 2016-08-16
 asin: B010NZV0GE
+price_paid: $99 from Amazon
 ---
 
-| Product name | SmartThings Hub, 2nd Generation           |
-| Category     | Home electronics, automation, security    |
-| Price paid   | $99 from Amazon                           |
-| Buy now      | [Buy from Amazon](http://amzn.to/2aXzrVw) |
-{:.summary}

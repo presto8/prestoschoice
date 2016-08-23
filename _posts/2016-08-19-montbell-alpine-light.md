@@ -5,12 +5,6 @@ date:   2016-08-19
 imgur: kOeUXH9
 ---
 
-| Product name | Montbell Alpine Light Down Jacket |
-| Category     | Hiking, Camping                   |
-| Price paid   |                                   |
-| Buy now      |                                   |
-{:.summary}
-
 I have a bit of a puffer jacket addiction. I have owned as many as five puffers
 at one time, down to three puffers now after I gave some away.
 

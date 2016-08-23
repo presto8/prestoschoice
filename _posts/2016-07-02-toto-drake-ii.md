@@ -1,17 +1,11 @@
 ---
 permalink: /drakeii
-title: "Toto Drake II - Toilet"
+title: "Toto Drake II Toilet"
 date: 2016-07-02
-categories: home toilet toto
 asin: B002CQ4NVM
 imgur: MeZ19Rz
+price_paid: $305 on Amazon
 ---
-
-| Product name | Toto Drake II                           |
-| Category     | Toilet                                  |
-| Price paid   | $305 on Amazon                          |
-| Buy now      | [Buy on Amazon](http://amzn.to/2bfP3rX) |
-{:.summary}
 
 Toilets are something that are rarely replaced, so it's one of the products
 that makes sense to invest.

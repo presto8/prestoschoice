@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /moonlence
 title:  "Moon Lence Ultralight Chair - Camp Chair"
 date:   2016-08-21
 ---

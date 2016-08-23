@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /triton
 title:  "Coleman Triton 2-Burner Stove"
 date:   2016-08-24
 ---

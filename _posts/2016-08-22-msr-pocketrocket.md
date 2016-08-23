@@ -1,5 +1,5 @@
 ---
-layout: post
+permalink: /pocketrocket
 title:  "MSR PocketRocket - Backpacking Stove"
 date:   2016-08-22
 ---

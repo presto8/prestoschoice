@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Toto Drake II - Toilet"
-date:   2016-07-02
+permalink: /toto-drake-ii
+title: "Toto Drake II - Toilet"
+date: 2016-07-02
 categories: home toilet toto
 ---
 

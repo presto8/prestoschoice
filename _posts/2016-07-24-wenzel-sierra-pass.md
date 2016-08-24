@@ -4,6 +4,7 @@ title: "Wenzel Sierra Pass - family car camping tent"
 date: 2016-07-24
 asin: B00A8E2BXM
 price_paid: $80 from Woot
+categories: camping
 ---
 
 In my pre-kid days, lightweight mountaineering tents were all I was interested

@@ -4,6 +4,7 @@ title: "Coleman Triton 2-Burner Stove"
 date: 2016-08-24
 price_paid: $36 from Amazon Warehouse Deals
 asin: B00GVLFX6I
+categories: camping
 ---
 
 If you go camping, you will see these Coleman stoves everywhere. There are two

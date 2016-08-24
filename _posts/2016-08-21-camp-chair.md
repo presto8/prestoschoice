@@ -4,6 +4,7 @@ title: "Moon Lence Ultralight Portable Folding Camping Chair"
 date: 2016-08-21
 asin: B00Y2A6OAO
 price_paid: $30 from Amazon
+categories: camping
 ---
 
 This camp chair weighs less than 2 pounds. With a family of four with four

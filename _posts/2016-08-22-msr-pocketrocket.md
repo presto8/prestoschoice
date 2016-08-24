@@ -5,6 +5,7 @@ date: 2016-08-22
 asin: B000A8C5QE
 imgur: tTNQhC7
 price_paid: $40 from REI
+categories: camping
 ---
 
 When I first started backpacking, I got a MSR DragonFly. It is tough, can burn

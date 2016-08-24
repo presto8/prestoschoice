@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Presto’s Choice is a blog about all of the things I buy.
+Presto’s Choice is a curated blog about all of the things I buy.
 
 For almost everything I buy, whether it’s sunscreen, a Japanese toilet seat, or
 a new car, I do a tremendous amount of product research. I strive for the best

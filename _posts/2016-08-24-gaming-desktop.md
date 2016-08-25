@@ -3,6 +3,7 @@ permalink: /desktop
 title: "DIY Gaming Desktop"
 date: 2016-08-24
 categories: computer electronics gaming
+asin: B01D205IXS
 ---
 
 | Category     | Product                                                        | Price |

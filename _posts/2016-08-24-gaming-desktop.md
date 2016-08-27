@@ -13,6 +13,7 @@ asin: B01D205IXS
 | CPU          | [Intel Core i7-6700K](http://amzn.to/2bCu6bZ)                  | $320  |
 | Memory       | [G.SKILL Ripjaws V 2x8GB DDR4-2400](http://amzn.to/2bGUCj6)    | $63   |
 | Hard disk    | [Samsung 950 Pro Series 256GB M.2 SSD](http://amzn.to/2bGVuEt) | $188  |
+| Hard disk    | [Intel 600p Series 256GB M.2 SSD]()      | $110  |
 
 A note on price: I linked Amazon out of convenience (because that is the
 default vendor for Presto's Choice), but often Newegg has better prices.

@@ -6,3 +6,6 @@ asin: B010NZV0GE
 price_paid: $99 from Amazon
 ---
 
+After years of false starts, wireless home automation is finally here! The
+Samsung SmartThings platform provides the most versatility and is reasonably
+priced.

@@ -12,7 +12,11 @@ layout: default
 
   <div>
       <div style="float: left">
+          {% if page.asin %}
+          <a href="http://www.amazon.com/dp/{{ page.asin }}/?tag=prestoschoice-20"><img border="0" src="{{ thumbnail | strip_newlines }}"></a>
+          {% else %}
           <img border="0" src="{{ thumbnail }}">
+          {% endif %}
       </div>
 
       <div>

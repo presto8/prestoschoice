@@ -13,7 +13,7 @@ asin: B01D205IXS
 | CPU          | [Intel Core i7-6700K](http://amzn.to/2bCu6bZ)               | $320  |
 | CPU Fan      | [DeepCool Captain 120 EX](http://amzn.to/2cugXP7)           | $65   |
 | Memory       | [G.SKILL Ripjaws V 2x8GB DDR4-2400](http://amzn.to/2bGUCj6) | $63   |
-| Hard disk    | [Intel 600p Series 256GB M.2 SSD]()                         | $107  |
+| Hard disk    | [Intel 600p Series 256GB M.2 SSD](http://amzn.to/2cuhBfs)   | $107  |
 
 Here are detailed notes about each component:
 
@@ -25,6 +25,11 @@ liquid cooling as there is not much height inside the case. Riotoro has
 excellent customer service; I emailed them a fairly detailed question and they
 responded within 1 business day with all of the information I needed. Overall,
 highly recommended case, especially for the price.
+
+[Intel 600p Series 256GB M.2 SSD](http://amzn.to/2cuhBfs): M.2 with x4 PCI
+Express is the only way to go for hard disk storage. Make sure the motherboard
+supports this and then get whatever size SSD you feel you need. The Intel 600p
+has pretty good performance for the price point. The [Samsung 950 Pro Series](http://amzn.to/2cuiAMr) has better performance but costs 50% more.
 
 A note on price: I linked Amazon out of convenience (because that is the
 default vendor for Presto's Choice), but often Newegg has better prices.

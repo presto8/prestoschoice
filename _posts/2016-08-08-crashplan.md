@@ -23,3 +23,6 @@ month if paid annually.
 
 Your data is important. With viruses, ransomware, hardware failure, and all the
 other risks out there, don't risk it. Just get CrashPlan.
+
+Additionally, you should be backing up your photos to [Google Photos], which
+provides unlimited free backup for pictures up to 18 megapixel.

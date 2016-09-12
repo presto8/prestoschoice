@@ -31,7 +31,15 @@ Express is the only way to go for hard disk storage. Make sure the motherboard
 supports this and then get whatever size SSD you feel you need. The Intel 600p
 has pretty good performance for the price point. The [Samsung 950 Pro Series](http://amzn.to/2cuiAMr) has better performance but costs 50% more.
 
-[DeepCool Captain 120 EX](http://amzn.to/2cugXP7): I got this fan because it has a cool pulsing red color and an awesome steam-punk style tube. Frankly, all of these fans seem more or less the same, but this one had good reviews for easy installation, good cooling power, and high quality cables. Customer support, if you need it, is supposed to be good. 3 year warranty. I also considered the [Corsair H60](http://amzn.to/2czl1gN) and the [Thermaltake Water 3.0 Performance C](http://amzn.to/2czlj7G). All of these are 120mm fans, which is the biggest size that will comfortably fit in the Riotoro case. It should be more than enough cooling power.
+[DeepCool Captain 120 EX](http://amzn.to/2cugXP7): I got this fan because it
+has a cool pulsing red color and an awesome steam-punk style tube. Frankly, all
+of these fans seem more or less the same, but this one had good reviews for
+easy installation, good cooling power, and high quality cables. I contacted
+customer support with some questions and they responded within 1 business day.
+3 year warranty. I also considered the [Corsair H60](http://amzn.to/2czl1gN)
+and the [Thermaltake Water 3.0 Performance C](http://amzn.to/2czlj7G). All of
+these are 120mm fans, which is the biggest size that will comfortably fit in
+the Riotoro case. It should be more than enough cooling power.
 
 A note on price: I linked Amazon out of convenience (because that is the
 default vendor for Presto's Choice), but often Newegg has better prices.

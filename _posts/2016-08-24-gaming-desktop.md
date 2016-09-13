@@ -19,10 +19,11 @@ asin: B01D205IXS
 the most compact case I could find that allows an ATX motherboard. It has a
 two-sided design where the power supply and hard disks go on one side and the
 motherboard goes on the other. To use this case, you will probably need to use
-liquid cooling as there is not much height inside the case. Riotoro has
-excellent customer service; I emailed them a fairly detailed question and they
-responded within 1 business day with all of the information I needed. Overall,
-highly recommended case, especially for the price.
+liquid cooling as there is not much height inside the case for most of the air
+coolers. Riotoro has excellent customer service; I emailed them a fairly
+detailed question and they responded within 1 business day with all of the
+information I needed. Overall, highly recommended case, especially for the
+price.
 
 [Intel 600p Series 256GB M.2 SSD](http://amzn.to/2cuhBfs): M.2 with x4 PCI
 Express is the only way to go for hard disk storage. Make sure the motherboard

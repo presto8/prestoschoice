@@ -24,8 +24,9 @@ month if paid annually.
 Your data is important. With viruses, ransomware, hardware failure, and all the
 other risks out there, don't risk it. Just get CrashPlan.
 
-Additionally, you should be backing up your photos to [Google Photos](https://photos.google.com/), which
-provides unlimited free backup for pictures up to 18 megapixel and for videos up to 1080p.
+Additionally, you should be backing up your photos to [Google Photos](https://photos.google.com/), 
+which provides unlimited free backup for pictures up to and including 18
+megapixel and for videos up to and including 1080p.
 
 I don't recommend Flickr. Flickr offers 1TB for free, but the interface is
 clunky and videos aren't free. Google Photos has unlimited photos and video, so

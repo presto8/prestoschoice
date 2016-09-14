@@ -35,7 +35,7 @@ CrashPlan and let Google Photos store a reduced-quality version for free.
 
 Amazon allows Prime members to store unlimited photos and videos. But the web
 interface is clunky and the desktop uploader is pretty bad too. I do backup
-about xx GB of photos and videos to Amazon for free using
+about 340 GB of photos and videos to Amazon for free using
 [Rclone](http://rclone.org/). If you can use Rclone, I recommend using Amazon
 (as an additional backup, in addition to Google Photos). Otherwise, just to
 Google Photos.

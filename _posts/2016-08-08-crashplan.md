@@ -26,3 +26,16 @@ other risks out there, don't risk it. Just get CrashPlan.
 
 Additionally, you should be backing up your photos to [Google Photos](https://photos.google.com/), which
 provides unlimited free backup for pictures up to 18 megapixel and for videos up to 1080p.
+
+I don't recommend Flickr. Flickr offers 1TB for free, but the interface is
+clunky and videos aren't free. Google Photos has unlimited photos and video, so
+it makes more sense to go with them. If you have high resolution photos and
+videos that exceed the free tier, then it would make sense to back those up to
+CrashPlan and let Google Photos store a reduced-quality version for free.
+
+Amazon allows Prime members to store unlimited photos and videos. But the web
+interface is clunky and the desktop uploader is pretty bad too. I do backup
+about xx GB of photos and videos to Amazon for free using
+[Rclone](http://rclone.org/). If you can use Rclone, I recommend using Amazon
+(as an additional backup, in addition to Google Photos). Otherwise, just to
+Google Photos.

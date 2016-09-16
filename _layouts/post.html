@@ -21,7 +21,9 @@ layout: default
 
       <div>
           <ul>
+              {% if page.price_paid %}
               <li>Price paid: {{ page.price_paid }}</li>
+              {% endif %}
               {% if page.asin %}
               <li><a href="http://www.amazon.com/dp/{{ page.asin }}/?tag=prestoschoice-20">Buy now from Amazon</a></li>
               {% endif %}

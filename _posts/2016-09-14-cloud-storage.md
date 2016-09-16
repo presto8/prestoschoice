@@ -9,7 +9,7 @@ options and the Presto's Choice is Google Drive. It has the best overall
 balance for all users.
 
 Google Drive at $2/month for up to 100 GB is a great deal. If you buy a
-Chromebook, like the Presto's Choice Acer, it may come with 2 years of 100 GB
+Chromebook, like the [Presto's Choice Acer](/chromebook), it may come with 2 years of 100 GB
 storage for free. If you need more storage, 1TB is $10/month. I think these
 prices will likely come down over time as well.
 
@@ -37,6 +37,6 @@ For photo enthusiasts who have raw files or who don't want Google compressing
 their pictures, unfortunately it is just not that easy. My assumption is that a
 photo enthusiast will want to keep a full copy of all photos on a local hard
 disk and is only concerned with backup and sharing photos. For backup, I would
-recommend the Presto's Choice Crashplan. And for sharing photos, just use
+recommend the [Presto's Choice Crashplan](/crashplan). And for sharing photos, just use
 whatever social platform you like (Facebook, Instagram, Snapchat, Flickr,
 etc.).

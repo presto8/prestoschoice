@@ -2,6 +2,7 @@
 permalink: /cloud-storage
 title: "Google Drive -  Cloud Storage"
 date: 2016-09-16
+imgur: lRe39
 ---
 
 There are a lot of cloud storage options today. I have reviewed all of the
@@ -13,13 +14,16 @@ Chromebook, like the [Presto's Choice Acer](/chromebook), it may come with 2 yea
 storage for free. If you need more storage, 1TB is $10/month. I think these
 prices will likely come down over time as well.
 
-Google Drive allows you to store photos up to 16 megapixels and videos up
-to 1080p for free (they don't count against your storage quota). Note that the
-photos have to be uploaded via the Google Photos interface and not via Google
-Drive. If you upload photos via Google Drive, they will always count against
-your quota. Also, Google does change the photos a little bit; most users won't
-notice the difference, but if that is important for you, see the recommendation
-for photo enthusiasts below.
+Google Drive allows you to store photos up to 16 megapixels and videos up to
+1080p for free (they don't count against your storage quota). If you install
+the Google Photos app on your smartphone, it will automatically backup any
+photos you take.
+
+Note that the photos have to be uploaded via the Google Photos interface and
+not via Google Drive. If you upload photos via Google Drive, they will always
+count against your quota. Also, Google does change the photos a little bit;
+most users won't notice the difference, but if that is important for you, see
+the recommendation for photo enthusiasts below.
 
 While we are on the topic of photos, Google's online photo editing tools are
 simply amazing. You can edit photos, automatically identify faces, search for

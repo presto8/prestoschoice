@@ -1,5 +1,5 @@
 ---
-permalink: /cloud-storage
+permalink: /google-drive
 title: "Google Drive -  Cloud Storage"
 date: 2016-09-16
 imgur: lRe39

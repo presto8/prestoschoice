@@ -2,7 +2,7 @@
 permalink: /google-drive
 title: "Google Drive -  Cloud Storage"
 date: 2016-09-16
-imgur: lRe39
+imgur: NPnlvJJ
 ---
 
 There are a lot of cloud storage options today. I have reviewed all of the

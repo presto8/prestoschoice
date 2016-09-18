@@ -44,3 +44,9 @@ disk and is only concerned with backup and sharing photos. For backup, I would
 recommend the [Presto's Choice Crashplan](/crashplan). And for sharing photos, just use
 whatever social platform you like (Facebook, Instagram, Snapchat, Flickr,
 etc.).
+
+For photo enthusiasts who don't want to spend any additional money and are also
+Amazon Prime members, and also are Linux nerds, I would recommend backing up
+your photos to Amazon Cloud for free. Amazon inclues raw photo files in its
+free photo program. [Rclone](http://rclone.org/) is a great program to sync
+your photos easily to Amazon Cloud.

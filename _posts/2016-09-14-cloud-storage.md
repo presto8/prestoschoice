@@ -47,6 +47,6 @@ etc.).
 
 For photo enthusiasts who don't want to spend any additional money and are also
 Amazon Prime members, and also are Linux nerds, I would recommend backing up
-your photos to Amazon Cloud for free. Amazon inclues raw photo files in its
+your photos to Amazon Cloud for free. Amazon includes raw photo files in its
 free photo program. [Rclone](http://rclone.org/) is a great program to sync
 your photos easily to Amazon Cloud.

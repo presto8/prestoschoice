@@ -6,14 +6,15 @@ categories: computer electronics gaming
 asin: B01D205IXS
 ---
 
-| Category     | Product                                                     | Price |
-| Case         | [Riotoro CR1080](http://amzn.to/2bhfQDs)                    | $80   |
-| Motherboard  | [Gigabyte Z170X-GT](http://amzn.to/2bhg4ua)                 | $250  |
-| Power supply | [Corsair CX450M](http://amzn.to/2bGUUa0)                    | $50   |
-| CPU          | [Intel Core i7-6700K](http://amzn.to/2bCu6bZ)               | $320  |
-| CPU Fan      | [DeepCool Captain 120 EX](http://amzn.to/2cugXP7)           | $65   |
-| Memory       | [G.SKILL Ripjaws V 2x8GB DDR4-2400](http://amzn.to/2bGUCj6) | $63   |
-| Hard disk    | [Intel 600p Series 256GB M.2 SSD](http://amzn.to/2cuhBfs)   | $107  |
+| Category     | Product                                                                                                                | Price |
+| Case         | [Riotoro CR1080](http://amzn.to/2bhfQDs)                                                                               | $80   |
+| Motherboard  | [Gigabyte Z170X-GT](http://amzn.to/2bhg4ua)                                                                            | $250  |
+| Power supply | [Corsair CX450M](http://amzn.to/2bGUUa0)                                                                               | $50   |
+| CPU          | [Intel Core i7-6700K](http://amzn.to/2bCu6bZ)                                                                          | $320  |
+| CPU Fan      | [DeepCool Captain 120 EX](http://amzn.to/2cugXP7)                                                                      | $65   |
+| GPU          | [Gigabyte Geforce GTX 1050 Ti OC](http://amzn.to/2hU4OaQ)                                                              | $145  |
+| Memory       | [Avexir Core Series 2x8GB DDR4-2400](http://www.newegg.com/Product/Product.aspx?Item=N82E16820011180) | $70   |
+| Hard disk    | [Intel 600p Series 256GB M.2 SSD](http://amzn.to/2cuhBfs)                                                              | $107  |
 
 [Riotoro CR1080](http://amzn.to/2bhfQDs): This is a really great case. It is
 the most compact case I could find that allows an ATX motherboard. It has a

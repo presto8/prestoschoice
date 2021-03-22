@@ -13,7 +13,7 @@ layout: default
   <div>
       <div style="float: left">
           {% if page.asin %}
-          <a href="http://www.amazon.com/dp/{{ page.asin }}/?tag=prestoschoice-20"><img border="0" src="{{ thumbnail | strip_newlines }}"></a>
+          <a href="http://www.amazon.com/dp/{{ page.asin }}/?tag=presto8-20"><img border="0" src="{{ thumbnail | strip_newlines }}"></a>
           {% else %}
           <img border="0" src="{{ thumbnail || strip_newlines }}">
           {% endif %}
@@ -25,7 +25,7 @@ layout: default
               <li>Price paid: {{ page.price_paid }}</li>
               {% endif %}
               {% if page.asin %}
-              <li><a href="http://www.amazon.com/dp/{{ page.asin }}/?tag=prestoschoice-20">Buy now from Amazon</a></li>
+              <li><a href="http://www.amazon.com/dp/{{ page.asin }}/?tag=presto8-20">Buy now from Amazon</a></li>
               {% endif %}
           </ul>
       </div>

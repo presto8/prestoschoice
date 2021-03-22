@@ -80,8 +80,32 @@ First, we are adding a second 100Ah battery, for 200Ah in total. This will give
 us even more time that we can run on battery without having to run the
 generator.
 
+I also am adding a digital monitor that will tell how many amps have been
+consumed and the estimated time left at the current consumption.
+
 I purchased all of these items from Amazon. The items often do go on sale or
 can be purchased from Amazon Warehouse Deals for a substantial savings.
+
+I decided to get a different charger, the Iota Engineering DL-90. It is a 90
+amp charger, over four times as powerful as my previous charger. Also it can
+charge the battery while it is under load, meaning I can avoid the temporary
+downtime on our Internet connection by leaving everything connected when
+charging the battery.
+
+
+LiFePO vs AGM
+=============
+I briefly investigated Lithium Iron Posphate (LiFePO or LFP) and it may be the
+right solution for some people. LFP batteries can provide much higher current
+and can charge more quickly than AGM batteries. They also can be almost fully
+depleted (called depth of discharge or DOD) without any adverse effects,
+whereas depleting an AGM battery below 50% will shorten its life span.
+
+LFP are extremely popular in the solar and RV communities where the batteries
+are a primary power source and are continously being charged and discharged.
+For the home emergecny backup situation that is only used a few times a year,
+these attributes are less important.
+
 
 12V lead acid battery
 ---------------------
